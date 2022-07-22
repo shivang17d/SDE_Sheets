@@ -1,6 +1,4 @@
-
 S.No. | Question Name |
 ------|---------------|
-1 | [House Robber](https://leetcode.com/problems/house-robber/)
-2 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-3 | [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+1 | [Ugly Number](https://leetcode.com/problems/ugly-number/)
+2 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
